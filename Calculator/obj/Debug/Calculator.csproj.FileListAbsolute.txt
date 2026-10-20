@@ -1,0 +1,7 @@
+F:\Учеба\4 курс\МДК 02.02 Юшкова\calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Учеба\4 курс\МДК 02.02 Юшкова\calculator\Calculator\bin\Debug\Calculator.exe
+F:\Учеба\4 курс\МДК 02.02 Юшкова\calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Учеба\4 курс\МДК 02.02 Юшкова\calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\Учеба\4 курс\МДК 02.02 Юшкова\calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\Учеба\4 курс\МДК 02.02 Юшкова\calculator\Calculator\obj\Debug\Calculator.exe
+F:\Учеба\4 курс\МДК 02.02 Юшкова\calculator\Calculator\obj\Debug\Calculator.pdb
